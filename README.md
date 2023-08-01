@@ -22,7 +22,9 @@ Once you completed the automation, check-in the code in GitHub, and attach the r
 Note: Please avoid using some other API for the assignment, if found the candidate will be disqualified accordingly
 Solution-
 NimesaAssignment1 file will take the Date and time as input i.e., in YYYY-MM-DD HH:MM:SS format.
-NimesaAssignment2 file will take only Date as input i.e., in YYYY-MM-DD format.![NimesaSS2](https://github.com/deveshdutt1619/NimesaAssignment.github.io/assets/97612410/9d286d26-5e99-4575-8dea-c7c6e049eb44)
+NimesaAssignment2 file will take only Date as input i.e., in YYYY-MM-DD format.![NimesaSS2]
+The output of both the files are given below.
+(https://github.com/deveshdutt1619/NimesaAssignment.github.io/assets/97612410/9d286d26-5e99-4575-8dea-c7c6e049eb44)
 ![NimesaSS](https://github.com/deveshdutt1619/NimesaAssignment.github.io/assets/97612410/a08f932c-7dca-42db-b7d2-e4a1d54c7213)
 
 
