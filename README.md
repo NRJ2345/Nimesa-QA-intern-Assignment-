@@ -10,7 +10,7 @@ I want you to write a program to get the option from the user and print the resu
 0. Exit
 
 If the user press 1, Prompt the user for the date then print the temp of the input date.
-If the user press 2, Prompt the user for the date then print the wind.speed of the input date.
+If the user press 2, Prompt the user for the date then print the wind, speed of the input date.
 If the user press 3, Prompt the user for the date then print the pressure of the input date.
 If the user press 0, Terminate the program.
 
@@ -20,3 +20,6 @@ You can use only Java or Python programming language and any framework.
 Once you completed the automation, check-in the code in GitHub, and attach the repository link below for review as well as share a screen shot of your output.
 
 Note: Please avoid using some other API for the assignment, if found the candidate will be disqualified accordingly
+Solution-
+NimesaAssignment1 file will take the Date and time as input i.e., in YYYY-MM-DD HH:MM:SS format.
+NimesaAssignment2 file will take only Date as input i.e., in YYYY-MM-DD format.
